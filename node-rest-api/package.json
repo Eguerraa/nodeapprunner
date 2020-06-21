@@ -14,7 +14,7 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "log-timestamp": "^0.3.0",
-    "mongoose": "^5.4.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "nodemon": "^2.0.2",
     "touch": "^3.1.0"
